@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fb3ddc4a-b338-45f2-811a-dbb2888d7420",
+  "export_job_id": "34542033-bf60-456f-ac1b-09c896a94e77",
   "id_short": 298354,
-  "published_at": "2026-04-19T19:50:58Z",
+  "published_at": "2026-04-23T19:59:46Z",
   "repo_name": "top-20-active-restaurant-review-whales-in-phoenix-mesa-chandler-metro-area-az-us-sample-298354",
   "sample_asset_name": "beamstation_298354_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/298354/beamstation_298354_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "d7ea60004fc04f6c66467f9ff8e3f2018b24a22648df7a96b9e8e2914e02867d",
-  "sample_size_bytes": 91475,
-  "total_records": 205
+  "sample_records": 22,
+  "sample_sha256": "639f284256d76e2892c5fca2ebde3d630287a1e09ebe7f102f8f5b898e2fa642",
+  "sample_size_bytes": 106468,
+  "total_records": 225
 }
